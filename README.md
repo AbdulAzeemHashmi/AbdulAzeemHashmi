@@ -24,12 +24,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ---
 
-## Selected Projects
-
-### MOVIE-DATA-MANAGER
-- Description: A Python toolkit for collecting, cleaning, exploring, and visualizing movie datasets. Focuses on reproducible EDA and clear visual summaries of movie metadata and metrics.
-- Tech: Python · numpy · pandas · matplotlib
-- Link: [MOVIE-DATA-MANAGER](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER)
+## Projects
 
 ### RC-CAR
 - Description: Repository for an RC car project includes embedded/C++ code, data logging, and Python tooling for analysis and visualization of experiment logs.
