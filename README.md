@@ -31,8 +31,6 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - Tech: C++ · Python (data tools) · data logging
 - Link: [RC-CAR](https://github.com/AbdulAzeemHashmi/RC-CAR)
 
-(If you want, I can expand each project with installation steps, examples, screenshots, and key features.)
-
 ---
 
 ## Education
