@@ -57,5 +57,3 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - Interested in internships or part-time roles to apply and grow AI and data-analysis skills.
 
 ---
-
-If you'd like this README adjusted (tone, layout, badges, dark/light theme, more project details, resume link, profile photo, or social links), tell me what to add and I’ll regenerate a polished final README.
