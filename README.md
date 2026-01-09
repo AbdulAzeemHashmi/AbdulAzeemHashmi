@@ -10,7 +10,7 @@
 I turn messy datasets into clear, actionable insights through reproducible exploratory data analysis and visual storytelling. I enjoy building small tools and pipelines that make data cleaning and visualization repeatable and reliable.
 
 - 🔭 Main projects: [MOVIE-DATA-MANAGER](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER) · [RC-CAR](https://github.com/AbdulAzeemHashmi/RC-CAR)  
-- 🌱 Currently: Pursuing a BS in Artificial Intelligence at FAST NUCES — Islamabad Campus (Aug 2024 — Present)  
+- 🌱 Currently: Pursuing a BS AI at FAST NUCES, Islamabad Campus (Aug 2024 - Present)  
 - 💬 Ask me about: data cleaning, data visualization, exploratory data analysis (EDA)  
 - ⚡ Fun fact: I enjoy building practical projects that combine software with data-driven insights
 
@@ -32,7 +32,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - Link: [MOVIE-DATA-MANAGER](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER)
 
 ### RC-CAR
-- Description: Repository for an RC car project — includes embedded/C++ code, data logging, and Python tooling for analysis and visualization of experiment logs.
+- Description: Repository for an RC car project includes embedded/C++ code, data logging, and Python tooling for analysis and visualization of experiment logs.
 - Tech: C++ · Python (data tools) · data logging
 - Link: [RC-CAR](https://github.com/AbdulAzeemHashmi/RC-CAR)
 
@@ -41,7 +41,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 ---
 
 ## Education
-- BS in Artificial Intelligence — FAST NUCES, Islamabad Campus (Aug 2024 — Present)
+- BS AI - FAST NUCES, Islamabad Campus (Aug 2024 - Present)
 
 ---
 
