@@ -39,7 +39,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 ---
 
 ## Contact
-- Email: [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)  
+- Email: [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)  [abdulazeemhashmi29@gmail.com](mailto:abdulazeemhashmi29@gmail.com) 
 - Phone: [+92 322 8535002](tel:+923228535002)  
 - GitHub: [@AbdulAzeemHashmi](https://github.com/AbdulAzeemHashmi)
 
