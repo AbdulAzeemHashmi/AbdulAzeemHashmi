@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Azeem 👋
 
-> Data enthusiast • EDA & Visualization • C++ & Python
+> Data Enthusiast • EDA & Visualization • C++ & Python
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AbdulAzeemHashmi) [![Top Language: C++](https://img.shields.io/badge/Top%20Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/AbdulAzeemHashmi/RC-CAR) 
 
