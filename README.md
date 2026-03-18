@@ -20,7 +20,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - **Languages:** C++, Python, SQL  
 - **Databases:** MySQL, Relational Database Design, ERD Modeling
 - **Python Libraries:** numpy, pandas, matplotlib, mysql-connector-python  
-- **Core Skills:** Data Cleaning, Data Visualization, Exploratory Data Analysis (EDA), Query Optimization  
+- **Core Skills:** Data Structures & Algorithms, Data Cleaning, EDA, Query Optimization  
 - **Tools & Workflow:** Git, Jupyter Notebooks, Reproducible Analysis
 
 ---
@@ -32,9 +32,9 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - **Tech:** MySQL · SQL · Python (`pandas`, `mysql-connector`) · Jupyter
 - **Link:** [Instagram-Lifestyle-DB-Analysis](https://github.com/AbdulAzeemHashmi/Instagram-Lifestyle-DB-Analysis) 
 
-### 🎬 Movie Data Manager
-- **Description:** A data management and analysis project designed to handle, process, and extract insights from movie datasets. Built to streamline data handling and organize film records efficiently. *(Note: Aap is description ko apne project ke actual kaam ke hisaab se tweak kar sakte hain)*
-- **Tech:** Python / C++ · Data Processing · EDA
+### 🎬 Movie Data Manager (C++ No-STL)
+- **Description:** A comprehensive console-based system to manage and analyze the IMDb 5000 dataset. Built entirely from scratch without the C++ STL, featuring manual implementations of AVL Trees for $O(\log n)$ search, Hash Tables for indexing, and Graphs (BFS/DFS) for a movie recommendation engine.
+- **Tech:** C++ · Custom Data Structures (AVL, Hash Tables, Graphs) · Algorithms
 - **Link:** [MOVIE-DATA-MANAGER](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER)
 
 ### 🏎️ RC-CAR
