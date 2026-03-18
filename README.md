@@ -30,7 +30,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 ### 📊 Instagram Usage & Lifestyle Database Analysis
 - **Description:** Designed and implemented a relational database to analyze the correlation between Instagram usage and user health/lifestyle. Included ERD design, Python-based data insertion (1,200 records), and complex SQL analytical queries.
 - **Tech:** MySQL · SQL · Python (`pandas`, `mysql-connector`) · Jupyter
-- **Link:** [Instagram-Lifestyle-DB-Analysis](https://github.com/AbdulAzeemHashmi/Instagram-Lifestyle-DB-Analysis) *(Link update kar lena jab repo ban jaye)*
+- **Link:** [Instagram-Lifestyle-DB-Analysis](https://github.com/AbdulAzeemHashmi/Instagram-Lifestyle-DB-Analysis) 
 
 ### 🏎️ RC-CAR
 - **Description:** Repository for an RC car project includes embedded/C++ code, data logging, and Python tooling for analysis and visualization of experiment logs.
