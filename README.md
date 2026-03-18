@@ -9,7 +9,7 @@
 ## About Me
 I turn messy datasets into clear, actionable insights through reproducible exploratory data analysis, visual storytelling, and robust database design. I enjoy building tools, data pipelines, and relational databases that make data handling reliable and efficient.
 
-- 🔭 **Main projects:** [RC-CAR](https://github.com/AbdulAzeemHashmi/RC-CAR) | Instagram Lifestyle DB Analysis
+- 🔭 **Main projects:** [RC-CAR](https://github.com/AbdulAzeemHashmi/RC-CAR) | Instagram Lifestyle DB Analysis | Movie Data Manager
 - 🌱 **Currently:** Pursuing a BS AI at FAST NUCES, Islamabad Campus (Aug 2024 - Present)  
 - 💬 **Ask me about:** Data cleaning, visualization, exploratory data analysis (EDA), and SQL database design.  
 - ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights.
@@ -31,6 +31,11 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - **Description:** Designed and implemented a relational database to analyze the correlation between Instagram usage and user health/lifestyle. Included ERD design, Python-based data insertion (1,200 records), and complex SQL analytical queries.
 - **Tech:** MySQL · SQL · Python (`pandas`, `mysql-connector`) · Jupyter
 - **Link:** [Instagram-Lifestyle-DB-Analysis](https://github.com/AbdulAzeemHashmi/Instagram-Lifestyle-DB-Analysis) 
+
+### 🎬 Movie Data Manager
+- **Description:** A data management and analysis project designed to handle, process, and extract insights from movie datasets. Built to streamline data handling and organize film records efficiently. *(Note: Aap is description ko apne project ke actual kaam ke hisaab se tweak kar sakte hain)*
+- **Tech:** Python / C++ · Data Processing · EDA
+- **Link:** [MOVIE-DATA-MANAGER](https://github.com/AbdulAzeemHashmi/MOVIE-DATA-MANAGER)
 
 ### 🏎️ RC-CAR
 - **Description:** Repository for an RC car project includes embedded/C++ code, data logging, and Python tooling for analysis and visualization of experiment logs.
