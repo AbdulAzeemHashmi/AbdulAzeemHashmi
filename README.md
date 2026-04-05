@@ -58,4 +58,3 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## What I'm Looking For
 - Open to collaborating on data-focused projects, student research, and open-source tools for EDA, databases, and visualization.  
-- Interested in internships or part-time roles to apply and grow my AI, database management, and data analysis skills.
