@@ -1,5 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/cb/71/a0/cb71a099b3ca06a3797f32f4af4c9011.gif)
-
 <h1 align="center">Hi 👋, I'm Abdul Azeem</h1>
 <h3 align="center">Data & AI Enthusiast | EDA, Visualization & Databases Specialist | AI Student at FAST NUCES</h3>
 
