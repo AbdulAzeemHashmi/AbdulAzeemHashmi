@@ -69,8 +69,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 <p align="left">
   <a href="https://github.com/AbdulAzeemHashmi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-  
+  </a> 
   <a href="https://www.instagram.com/abdulazeemhash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
