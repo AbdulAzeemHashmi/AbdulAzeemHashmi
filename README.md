@@ -79,9 +79,9 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-![Top Languages](https://holidify-api.herokuapp.com/top-langs?username=AbdulAzeemHashmi)
+![Top Languages](https://your-instance.vercel.app/api/top-langs?username=AbdulAzeemHashmi&layout=compact&theme=radical)
 
-![GitHub Stats](https://holidify-api.herokuapp.com/github-stats?username=AbdulAzeemHashmi)
+![GitHub Stats](https://your-instance.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true)
 
