@@ -2,7 +2,7 @@
 <h3 align="center">Data & AI Enthusiast | EDA, Visualization & Databases Specialist | FAST AI Student (24th Batch)</h3>
 
 <p align="center">
-I turn messy datasets into clear, actionable insights through reproducible exploratory data analysis, visual storytelling, and robust database design. I enjoy building tools, data pipelines, and relational databases that make data handling reliable and efficient.
+I turn messy datasets into clear, actionable insights through reproducible exploratory data analysis, visual storytelling, and robust database design. I enjoy building tools, data pipelines, and re-usable solutions that bridge the gap between raw data and meaningful decisions.
 </p>
 
 ---
@@ -79,17 +79,14 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</div>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
