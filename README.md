@@ -81,16 +81,16 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 <div align="center">
   <a href="https://github.com/AbdulAzeemHashmi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical&custom_title=Top%20Languages&langs_count=8&card_width=400" alt="Top Languages"/>
   </a>
   <a href="https://github.com/AbdulAzeemHashmi">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical&card_width=400" alt="GitHub Stats"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AbdulAzeemHashmi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true&ring=FF4500&fire=FF4500&currStreakNum=FFFF00&sideLabels=00FFFF" alt="GitHub Streak"/>
   </a>
 </div>
 
