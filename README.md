@@ -79,8 +79,6 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-## 📈 GitHub Statistics
-
 ![Top Languages](https://holidify-api.herokuapp.com/top-langs?username=AbdulAzeemHashmi)
 
 ![GitHub Stats](https://holidify-api.herokuapp.com/github-stats?username=AbdulAzeemHashmi)
