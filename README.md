@@ -80,12 +80,18 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <a href="https://github.com/AbdulAzeemHashmi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAzeemHashmi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/AbdulAzeemHashmi">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical" alt="GitHub Streak"/>
+  <a href="https://github.com/AbdulAzeemHashmi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=radical" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
