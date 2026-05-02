@@ -81,9 +81,9 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-![Top Languages](https://cdn.statically.io/gh/anuraghazra/github-readme-stats/master/langs_top.svg?username=AbdulAzeemHashmi)
+![Top Languages](https://holidify-api.herokuapp.com/top-langs?username=AbdulAzeemHashmi)
 
-![GitHub Stats](https://cdn.statically.io/gh/anuraghazra/github-readme-stats/master/default.svg?username=AbdulAzeemHashmi)
+![GitHub Stats](https://holidify-api.herokuapp.com/github-stats?username=AbdulAzeemHashmi)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true)
 
