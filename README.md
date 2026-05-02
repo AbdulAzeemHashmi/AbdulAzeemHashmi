@@ -79,9 +79,9 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=radical)
+![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=radical)
+![GitHub Stats](https://streak-stats.demolab.com/api?username=AbdulAzeemHashmi&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true)
 
