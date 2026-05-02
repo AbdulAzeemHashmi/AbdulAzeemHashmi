@@ -79,9 +79,11 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 
 ## 📈 GitHub Statistics
 
-![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=radical)
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://streak-stats.demolab.com/api?username=AbdulAzeemHashmi&show_icons=true&theme=radical)
+![Top Languages](https://cdn.statically.io/gh/anuraghazra/github-readme-stats/master/langs_top.svg?username=AbdulAzeemHashmi)
+
+![GitHub Stats](https://cdn.statically.io/gh/anuraghazra/github-readme-stats/master/default.svg?username=AbdulAzeemHashmi)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true)
 
