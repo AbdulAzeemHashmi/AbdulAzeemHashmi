@@ -41,14 +41,23 @@ I turn messy datasets into clear, actionable insights through reproducible explo
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
   </a>
 </p>
 
@@ -57,10 +66,10 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 ## 📊 Technical Skills
 
 - **Languages:** C++, Python, SQL, HTML, CSS, JavaScript
-- **Databases:** MySQL, Relational Database Design, ERD Modeling
-- **Python Libraries:** NumPy, Pandas, Matplotlib, MySQL-connector-python
-- **Core Competencies:** Data Structures & Algorithms, Data Cleaning, EDA, Query Optimization
-- **Tools & Workflow:** Node.js, Jupyter Notebooks, Reproducible Analysis
+- **Databases:** MySQL, MongoDB, Relational Database Design, ERD Modeling
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
+- **Core Competencies:** Data Structures & Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization
+- **Tools & Workflow:** Node.js, Jupyter Notebooks, Google Colab, Reproducible Analysis
 
 ---
 
