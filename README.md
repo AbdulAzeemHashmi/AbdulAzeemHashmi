@@ -59,6 +59,12 @@ I turn messy datasets into clear, actionable insights through reproducible explo
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -69,7 +75,7 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - **Databases:** MySQL, MongoDB, Relational Database Design, ERD Modeling
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
 - **Core Competencies:** Data Structures & Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization
-- **Tools & Workflow:** Node.js, Jupyter Notebooks, Google Colab, Reproducible Analysis
+- **Tools & Workflow:** Node.js, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
 
 ---
 
