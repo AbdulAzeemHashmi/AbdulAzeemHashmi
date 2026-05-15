@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Abdul Azeem</h1>
-<h3 align="center">Data & AI Enthusiast | EDA, Visualization & Databases Specialist | FAST AI Student (24th Batch)</h3>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2500&color=00C8FF&center=true&vCenter=true&width=500&lines=Python+Developer;Database+Specialist;C%2B%2B+Programmer;Web+Developer" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
-I turn messy datasets into clear, actionable insights through reproducible exploratory data analysis, visual storytelling, and robust database design. I enjoy building tools, data pipelines, and research projects at the fascinating intersection of software engineering and data science.
+I turn messy datasets into clear, actionable insights through reproducible analysis and robust database design. I enjoy building tools, data pipelines, and research projects at the fascinating intersection of software engineering and data science.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💬 **Ask me about:** Data cleaning, visualization, exploratory data analysis (EDA), SQL database design, and data structures
+- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, and data structures
 
 - ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights
 
@@ -74,8 +79,8 @@ I turn messy datasets into clear, actionable insights through reproducible explo
 - **Languages:** C++, Python, SQL, HTML, CSS, JavaScript
 - **Databases:** MySQL, MongoDB, Relational Database Design, ERD Modeling
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
-- **Core Competencies:** Data Structures & Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization
-- **Tools & Workflow:** Node.js, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
+- **Core Competencies:** Data Structures and Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization
+- **Tools and Workflow:** Node.js, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
 
 ---
 
