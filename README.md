@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-I turn messy datasets into clear, actionable insights through reproducible analysis and robust database design. I enjoy building tools, data pipelines, and research projects at the fascinating intersection of software engineering and data science.
+I build efficient Python applications, design and optimize relational databases, write performant C++ programs, and craft responsive web interfaces. I enjoy creating projects that bridge clean backend logic with real-world problem solving.
 </p>
 
 ---
