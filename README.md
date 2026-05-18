@@ -99,11 +99,17 @@ I build efficient Python applications, design and optimize relational databases,
 
 ## 📈 GitHub Statistics
 
-![Top Languages](assets/top-langs.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Stats](assets/stats.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
