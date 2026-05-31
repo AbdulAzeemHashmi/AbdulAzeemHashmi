@@ -93,6 +93,9 @@ I build efficient Python applications, design and optimize relational databases,
   <a href="https://www.instagram.com/abdulazeemhash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://wa.me/923322853500" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -114,5 +117,3 @@ I build efficient Python applications, design and optimize relational databases,
 ---
 
 **Let's connect and build something amazing together! 🚀**
-
-
