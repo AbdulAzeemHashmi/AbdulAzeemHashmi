@@ -96,7 +96,7 @@ I build efficient Python applications, design and optimize relational databases,
 
 <p align="left">
   <a href="https://abdulazeemhashmi.vercel.app/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/fluency/40/domain.png" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://github.com/AbdulAzeemHashmi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
