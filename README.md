@@ -20,6 +20,8 @@ I build efficient Python applications, design and optimize relational databases,
 
 ## 👨‍💻 About Me
 
+- 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
+
 - 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, and data structures
 
 - ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights
@@ -93,6 +95,9 @@ I build efficient Python applications, design and optimize relational databases,
 ## 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://abdulazeemhashmi.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
+  </a>
   <a href="https://github.com/AbdulAzeemHashmi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
@@ -123,4 +128,3 @@ I build efficient Python applications, design and optimize relational databases,
 ---
 
 **Let's connect and build something amazing together! 🚀**
-   
