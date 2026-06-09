@@ -2,12 +2,12 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Python+Developer;Database+Specialist;C%2B%2B+Programmer;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Python+Developer;Database+Specialist;C%2B%2B+Programmer;Web+Developer;Robotics+Enthusiast" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
-I build efficient Python applications, design and optimize relational databases, write performant C++ programs, and craft responsive web interfaces. I enjoy creating projects that bridge clean backend logic with engaging frontend experiences.
+I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy creating projects that bridge clean backend systems with intuitive user experiences, with a passion for robotics and autonomous systems.
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@ I build efficient Python applications, design and optimize relational databases,
 
 - 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
 
-- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, and data structures
+- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
 
-- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights
+- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights and robotics
 
 - 📫 **How to reach me:** [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)
 
@@ -100,6 +100,11 @@ I build efficient Python applications, design and optimize relational databases,
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="50" height="50" style="margin: 8px;"/>
   </a>
   
+  <!-- Robotics -->
+  <a href="https://docs.ros.org/en/humble/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" alt="ros2" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  
   <!-- Tools & Deployment -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 8px;"/>
@@ -123,8 +128,9 @@ I build efficient Python applications, design and optimize relational databases,
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Databases:** MySQL, MongoDB, Relational Database Design, ERD Modeling
 - **Backend:** Flask (Python API library), Node.js
+- **Robotics:** ROS2, Autonomous Systems, Robot Control
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
-- **Core Competencies:** Data Structures and Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization
+- **Core Competencies:** Data Structures and Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization, Robotics Development
 - **Tools and Workflow:** Git, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
 
 ---
