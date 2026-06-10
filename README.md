@@ -22,7 +22,7 @@ I build efficient Python applications, design and optimize relational databases,
 
 - 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
 
-- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics   
+- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
 
 - ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights and robotics
 
