@@ -82,6 +82,9 @@ I build efficient Python applications, design and optimize relational databases,
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 8px;"/>
   </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50" style="margin: 8px;"/>
+  </a>
   
   <!-- Data Science & Analysis -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -92,6 +95,9 @@ I build efficient Python applications, design and optimize relational databases,
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50" style="margin: 8px;"/>
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50" style="margin: 8px;"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" style="margin: 8px;"/>
@@ -126,11 +132,12 @@ I build efficient Python applications, design and optimize relational databases,
 
 - **Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Databases:** MySQL, MongoDB, Relational Database Design, ERD Modeling
+- **Databases:** MySQL, MongoDB, Supabase, Relational Database Design, ERD Modeling
 - **Backend:** Flask (Python API library), Node.js
 - **Robotics:** ROS2, Autonomous Systems, Robot Control
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
-- **Core Competencies:** Data Structures and Algorithms, Data Cleaning, EDA, Machine Learning, Query Optimization, Robotics Development
+- **AI and ML:** Hugging Face, Machine Learning, EDA, Data Cleaning
+- **Core Competencies:** Data Structures and Algorithms, Query Optimization, Robotics Development
 - **Tools and Workflow:** Git, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
 
 ---
@@ -143,6 +150,7 @@ I build efficient Python applications, design and optimize relational databases,
   </a>
   <a href="https://github.com/AbdulAzeemHashmi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
   <a href="https://www.instagram.com/abdulazeemhash" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
