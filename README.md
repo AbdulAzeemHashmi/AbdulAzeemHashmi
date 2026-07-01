@@ -135,7 +135,7 @@ I build efficient Python applications, design and optimize relational databases,
 - **Databases:** MySQL, MongoDB, Supabase, Relational Database Design, ERD Modeling
 - **Backend:** Flask (Python API library), Node.js
 - **Robotics:** ROS2, Autonomous Systems, Robot Control
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, MySQL-connector-python
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 - **AI and ML:** Hugging Face, Machine Learning, EDA, Data Cleaning
 - **Core Competencies:** Data Structures and Algorithms, Query Optimization, Robotics Development
 - **Tools and Workflow:** Git, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
