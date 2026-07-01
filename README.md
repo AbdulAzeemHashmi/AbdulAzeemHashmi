@@ -24,7 +24,7 @@ I build efficient Python applications, design and optimize relational databases,
 
 - 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
 
-- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data-driven insights and robotics
+- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data driven insights and robotics
 
 - 📫 **How to reach me:** [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)
 
@@ -74,6 +74,9 @@ I build efficient Python applications, design and optimize relational databases,
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50" style="margin: 8px;"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" style="margin: 8px;"/>
+  </a>
   
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -115,6 +118,9 @@ I build efficient Python applications, design and optimize relational databases,
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 8px;"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 8px;"/>
+  </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50" style="margin: 8px;"/>
   </a>
@@ -132,13 +138,12 @@ I build efficient Python applications, design and optimize relational databases,
 
 - **Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Databases:** MySQL, MongoDB, Supabase, Relational Database Design, ERD Modeling
-- **Backend:** Flask, Node.js
-- **Robotics:** ROS2, Autonomous Systems, Robot Control
+- **Databases:** MySQL, MongoDB, Supabase
+- **Backend:** Flask (Python API library), FastAPI, Node.js
+- **Robotics:** ROS2
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **AI and ML:** Hugging Face, Machine Learning, EDA, Data Cleaning
-- **Core Competencies:** Data Structures and Algorithms, Query Optimization, Robotics Development
-- **Tools and Workflow:** Git, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux, Reproducible Analysis
+- **AI and ML:** Hugging Face
+- **Tools and Workflow:** Git, Docker, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux
 
 ---
 
