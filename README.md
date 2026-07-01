@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy creating projects that bridge clean backend systems with intuitive user experiences, with a passion for robotics and autonomous systems.
+I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy combining software engineering with data driven insights and building practical solutions.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I build efficient Python applications, design and optimize relational databases,
 
 ---
 
-## 👨‍💻 About Me
+## 👨.💻 About Me
 
 - 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
 
@@ -136,14 +136,48 @@ I build efficient Python applications, design and optimize relational databases,
 
 ## 📊 Technical Skills
 
-- **Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Databases:** MySQL, MongoDB, Supabase
-- **Backend:** Flask, FastAPI, Node.js
-- **Robotics:** ROS2
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **AI and ML:** Hugging Face
-- **Tools and Workflow:** Git, Docker, Vercel, Jupyter Notebooks, Google Colab, VS Code, Linux
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>Programming Languages</b><br/>
+      C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
+    </td>
+    <td width="50%">
+      <b>Frontend Development</b><br/>
+      React, Next.js, Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Backend Development</b><br/>
+      Flask, FastAPI, Node.js
+    </td>
+    <td width="50%">
+      <b>Databases</b><br/>
+      MySQL, MongoDB, Supabase
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Data Science & Libraries</b><br/>
+      NumPy, Pandas, Matplotlib, Scikit-learn
+    </td>
+    <td width="50%">
+      <b>AI and Machine Learning</b><br/>
+      Hugging Face
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Robotics</b><br/>
+      ROS2
+    </td>
+    <td width="50%">
+      <b>Tools and Workflow</b><br/>
+      Git, Docker, Vercel, Jupyter, Google Colab, VS Code, Linux
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -169,7 +203,7 @@ I build efficient Python applications, design and optimize relational databases,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
