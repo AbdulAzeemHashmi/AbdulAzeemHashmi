@@ -139,7 +139,7 @@ I build efficient Python applications, design and optimize relational databases,
 - **Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Databases:** MySQL, MongoDB, Supabase
-- **Backend:** Flask (Python API library), FastAPI, Node.js
+- **Backend:** Flask, FastAPI, Node.js
 - **Robotics:** ROS2
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 - **AI and ML:** Hugging Face
