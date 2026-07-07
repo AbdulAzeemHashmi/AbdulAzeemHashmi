@@ -10,12 +10,6 @@
 I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy combining software engineering with data driven insights and building practical solutions.
 </p>
 
-<p align="center">
-  <a href="https://rankistan.dev">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAbdulAzeemHashmi&style=for-the-badge" alt="Rankistan rank badge">
-  </a>
-</p>
-
 ---
 
 ## 👨.💻 About Me
