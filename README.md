@@ -126,25 +126,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=764ba2&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=764ba2&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c8ff&ring=764ba2&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c8ff&ring=764ba2&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=ffffff&langs_count=10" alt="Top Languages" width="50%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeemHashmi&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophy Stats" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=ffffff&langs_count=10" alt="Top Languages" width="50%"/>
 
 </div>
 
@@ -169,60 +159,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg" width="100%"/>
 </picture>
-
-</div>
-
-<details>
-<summary>🔧 Click here for Snake Animation Setup Instructions</summary>
-
-The snake animation only appears after a GitHub Action runs and generates the SVG on an `output` branch. Here is how to set it up:
-
-1. Inside this repo, create the folders `.github` then `workflows`
-2. Inside `.github/workflows/`, create a file named `snake.yml`
-3. Paste the following content into `snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: AbdulAzeemHashmi
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Push the file. GitHub Actions will pick it up automatically and generate the `output` branch within a couple of minutes. The snake animation will then appear here.
-
-</details>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="80%"/>
 
 </div>
 
