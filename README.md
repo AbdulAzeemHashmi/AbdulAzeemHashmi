@@ -37,7 +37,7 @@
 ## 👨‍💻 About Me
 
 - 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
-- 🎓 **Studying:** BS Artificial Intelligence at FAST NUCES, Islamabad
+- 🎓 **Studying:** BS AI at FAST NUCES, Islamabad
 - 🤖 **AI Intern** at UAV Dependability Research Lab
 - 💼 **Software Engineering Intern** at CODOC (PVT) LTD
 - 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
