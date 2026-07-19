@@ -1,253 +1,239 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:764ba2&height=220&section=header&text=Hi%20There%2C%20I'm%20Abdul%20Azeem&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Database%20Specialist%20%7C%20Robotics%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:764ba2,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Python%20Specialist%20%7C%20Robotics%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Python+Developer;Database+Specialist;C%2B%2B+Programmer;Web+Developer;Robotics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=600&lines=AI+Developer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Database+Specialist+%F0%9F%97%84%EF%B8%8F;C%2B%2B+Programmer+%E2%9A%A1;Web+Developer+%F0%9F%8C%90;Robotics+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <table>
   <tr>
-    <td align="center"><img src="https://komarev.com/ghpvc/?username=AbdulAzeemHashmi&color=00c8ff&style=flat-square&label=Profile+Views" alt="profile views"/></td>
-    <td align="center"><img src="https://img.shields.io/github/followers/AbdulAzeemHashmi?label=Followers&style=flat-square&color=764ba2" alt="followers"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="open to work"/></td>
+    <td align="center"><img src="https://komarev.com/ghpvc/?username=AbdulAzeemHashmi&color=00c8ff&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/></td>
+    <td align="center"><img src="https://img.shields.io/github/followers/AbdulAzeemHashmi?label=FOLLOWERS&style=for-the-badge&color=764ba2&labelColor=1a1a2e" alt="followers"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=1a1a2e" alt="open to work"/></td>
   </tr>
 </table>
 
 </div>
 
-<p align="center">
-🚀 I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy combining software engineering with data driven insights and building practical solutions. 💡
-</p>
+---
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding animation"/>
+
+## 🌟 Welcome to My Digital Space 🌟
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+
 </div>
+
+<p align="center">
+🚀 I build efficient Python applications, design and optimize relational databases, write performant C++ programs, craft responsive web interfaces, and develop robotics applications with ROS2. I enjoy combining software engineering with data driven insights to build practical solutions. 💡
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding right gif"/>
+
 - 🌐 **Portfolio:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
-- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
-- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data driven insights and robotics
-- 📫 **How to reach me:** [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)
-- 🌱 **Currently exploring:** Advanced database optimization and autonomous robotics systems
 - 🎓 **Studying:** BS Artificial Intelligence at FAST NUCES, Islamabad
+- 🤖 **AI Intern** at UAV Dependability Research Lab
+- 💼 **Software Engineering Intern** at CODOC (PVT) LTD
+- 💬 **Ask me about:** Data cleaning, SQL database design, Python development, C++ programming, data structures, and ROS2 robotics
+- 🌱 **Currently exploring:** Advanced database optimization and autonomous robotics systems
+- ⚡ **Fun fact:** I enjoy building practical projects that combine software engineering with data driven insights and robotics
+- 📫 **Reach me at:** [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)
+
+<br clear="right"/>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulazeem-hashmi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulazeem7982@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00c8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulazeemhashmi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulAzeemHashmi)
+
+</div>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 8px;"/>
-  </a>
+<div align="center">
 
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="50" height="50" style="margin: 8px;"/>
-  </a>
+### 💻 Programming Languages
 
-  <!-- Backend and Runtime -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" style="margin: 8px;"/>
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50" style="margin: 8px;"/>
-  </a>
+### 🌐 Web Technologies
 
-  <!-- Data Science and Analysis -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit learn" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="50" height="50" style="margin: 8px;"/>
-  </a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-  <!-- Robotics -->
-  <a href="https://docs.ros.org/en/humble/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" alt="ros2" width="50" height="50" style="margin: 8px;"/>
-  </a>
+### 🗄️ Databases
 
-  <!-- Tools and Deployment -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 8px;"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin: 8px;"/>
-  </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+### 🤖 AI and Data Science
 
-## 📊 Technical Skills
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      💻 <b>Programming Languages</b><br/>
-      C, C++, Python, SQL, HTML, CSS, JavaScript, TypeScript
-    </td>
-    <td width="50%">
-      🎨 <b>Frontend Development</b><br/>
-      React, Next.js, Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      ⚙️ <b>Backend Development</b><br/>
-      Flask, FastAPI, Node.js
-    </td>
-    <td width="50%">
-      🗄️ <b>Databases</b><br/>
-      MySQL, MongoDB, Supabase
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      📊 <b>Data Science and Libraries</b><br/>
-      NumPy, Pandas, Matplotlib, Scikit learn
-    </td>
-    <td width="50%">
-      🤖 <b>AI and Machine Learning</b><br/>
-      Hugging Face
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      🦾 <b>Robotics</b><br/>
-      ROS2
-    </td>
-    <td width="50%">
-      🧰 <b>Tools and Workflow</b><br/>
-      Git, Docker, Vercel, Jupyter, Google Colab, VS Code, Linux
-    </td>
-  </tr>
-</table>
+### 🤖 Robotics
 
----
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## 🤝 Connect with Me
+### 🔧 Tools and Platforms
 
-<p align="left">
-  <a href="https://abdulazeemhashmi.vercel.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/40/domain.png" alt="Portfolio" height="30" width="40" />
-  </a>
-  <a href="https://github.com/AbdulAzeemHashmi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/abdulazeemhash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/923228535002" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=764ba2&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="49%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c8ff&ring=764ba2&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="49%"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeemHashmi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy Stats" />
-</p>
-
-> ℹ️ If the trophies do not load, the shared free endpoint is rate limited by GitHub and needs a moment to respond, just refresh the page. A permanent fix is to deploy your own copy for free, see the note below the snake section.
+</div>
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=ffffff&langs_count=10" alt="Top Languages" width="50%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbdulAzeemHashmi&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophy Stats" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=00c8ff&line=764ba2&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
 
-> ⚠️ **Setup needed:** the snake image only appears once a small GitHub Action runs in this repo to generate it on an `output` branch, pasting the image tag alone does nothing. The workflow file must live at the exact path `.github/workflows/snake.yml`, sitting at the repo root as a plain `snake.yml` file will not run. Create the folders `.github` then `workflows` inside this profile repo, add `snake.yml` there with the workflow content provided separately, then push it. GitHub Actions will pick it up automatically, generate the `output` branch within a minute or two, and the animation will show up here. The same applies if the trophy image above stays broken for a long time, that free endpoint is shared by thousands of profiles and can time out on its own.
+<details>
+<summary>🔧 Click here for Snake Animation Setup Instructions</summary>
+
+The snake animation only appears after a GitHub Action runs and generates the SVG on an `output` branch. Here is how to set it up:
+
+1. Inside this repo, create the folders `.github` then `workflows`
+2. Inside `.github/workflows/`, create a file named `snake.yml`
+3. Paste the following content into `snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AbdulAzeemHashmi
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Push the file. GitHub Actions will pick it up automatically and generate the `output` branch within a couple of minutes. The snake animation will then appear here.
+
+</details>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="80%"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💫 Let's connect and build something amazing together 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:764ba2,100:00c8ff&height=140&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:00c8ff&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00C8FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+connect+with+me!+%F0%9F%A4%9D;Let%27s+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG"/>
+
+**Made with ❤️ by Abdul Azeem Hashmi**
 
 </div>
