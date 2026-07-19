@@ -157,7 +157,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-snake.svg" width="100%"/>
+  <img alt="github contribution grid snake animation" src="https://github.com/AbdulAzeemHashmi/AbdulAzeemHashmi/blob/output/github-snake.svg?raw=true" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg'" width="100%"/>
 </picture>
 
 </div>
