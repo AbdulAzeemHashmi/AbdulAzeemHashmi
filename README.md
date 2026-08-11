@@ -33,12 +33,12 @@
 Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space serves as an interactive showcase of computational expertise and engineering skills across Autonomous AI Agents, LLM Powered Applications, Full Stack Web Development, and Cloud Data Architectures.
 
 ```
-       ┌─────────────────────────────────────────────────────────────┐
-       │                 🌌 ABDUL AZEEM HASHMI 🌌                   │
-       ├─────────────────────────────────────────────────────────────┤
+       ┌──────────────────────────────────────────────────────────────┐
+       │                 🌌 ABDUL AZEEM HASHMI 🌌                    │
+       ├──────────────────────────────────────────────────────────────┤
        │  🧠 Autonomous AI & Agents   ⚡ Full Stack Web Engineering  │
-       │  🤖 LLM & Prompt Tools       💻 Modern Web & API Systems   │
-       └─────────────────────────────────────────────────────────────┘
+       │  🤖 LLM & Prompt Tools       💻 Modern Web & API Systems    │
+       └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
