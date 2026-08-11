@@ -43,12 +43,12 @@ Hi, I'm **Abdul Azeem Hashmi** 👋 an AI and Backend Engineer who loves turning
 
 ## 🚀 What I Bring to the Table
 
-* 🧠 **Autonomous AI Agents** — designing multi tool agentic systems and natural language mission planners powered by Gemini, OpenAI, and LangChain.
-* 🌊 **Interactive UI Experiences** — building dynamic, physics driven, real time interfaces that respond fluidly to user interaction.
-* ⚡ **Next.js App Router & Turbopack** — shipping high performance server and client rendered apps with lightning fast builds.
-* 🎨 **Glassmorphism & Dark Theme Design** — crafting premium layouts with glowing borders, responsive typography, and subtle micro animations.
-* ⚙️ **Robust Backend & API Design** — engineering scalable microservices and clean REST APIs with FastAPI and Flask.
-* 📱 **Fully Responsive Engineering** — ensuring every layout adapts seamlessly across mobile, tablet, and desktop.
+* 🧠 **Autonomous AI Agents**: designing multi tool agentic systems and natural language mission planners powered by Gemini, OpenAI, and LangChain.
+* 🌊 **Interactive UI Experiences**: building dynamic, physics driven, real time interfaces that respond fluidly to user interaction.
+* ⚡ **Next.js App Router & Turbopack**: shipping high performance server and client rendered apps with lightning fast builds.
+* 🎨 **Glassmorphism & Dark Theme Design**: crafting premium layouts with glowing borders, responsive typography, and subtle micro animations.
+* ⚙️ **Robust Backend & API Design**: engineering scalable microservices and clean REST APIs with FastAPI and Flask.
+* 📱 **Fully Responsive Engineering**: ensuring every layout adapts seamlessly across mobile, tablet, and desktop.
 
 ---
 
