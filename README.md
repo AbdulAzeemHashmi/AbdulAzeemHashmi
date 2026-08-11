@@ -141,7 +141,7 @@ Architecting and implementing scalable software solutions, optimizing full stack
 <td width="50%" valign="top">
 
 ### ✈️ AI Intern
-**UAV Dependability Research Lab** · *June 2026 → Present*
+**UAV Dependability Research Lab** · *June 2026 → August 2026*
 
 Researching and engineering AI logic models for autonomous UAV systems, running dependability evaluations, waypoint route optimization, and rule compliance testing.
 
