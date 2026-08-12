@@ -1,12 +1,10 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Logic%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=200&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=70&lines=Abdul+Azeem+Hashmi;AI+%26+Backend+Engineer;Full+Stack+Web+Developer;Logic+%26+Database+Architect" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vcenter=true&width=600&height=50&lines=AI+and+Backend+Engineer;Full+Stack+Web+Developer;Logic+and+Database+Architect" alt="Animated Typing Header" />
 </a>
-
-<h1>⚡ Abdul Azeem Hashmi | Personal Profile ⚡</h1>
 
 <p align="center">
   <b>🌌 Sleek, Modern, and Interactive Profile Showcase across Autonomous AI, Full Stack Engineering, and Cloud Architectures 🌌</b>
@@ -59,11 +57,11 @@ Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space 
 
 ## 🚀 Key Strengths
 
-* 🌊 **Interactive WebGL & UI Experiences** — building dynamic, physics driven particle simulations that react in real time to user interactions.
-* 🎵 **Custom Embedded Controllers & APIs** — crafting sleek, floating media components integrated seamlessly with web APIs.
-* ⚡ **Next.js App Router & Turbopack** — delivering high performance server and client rendering with ultra fast static builds.
-* 🎨 **Glassmorphism Design & Dark Themes** — designing premium dark layouts featuring glowing borders, responsive typography, and micro animations.
-* 📱 **Fully Mobile Responsive** — ensuring dynamic layout adaptivity across mobile, tablet, and desktop viewports.
+* 🌊 **Interactive WebGL & UI Experiences**: building dynamic, physics driven particle simulations that react in real time to user interactions.
+* 🎵 **Custom Embedded Controllers & APIs**: crafting sleek, floating media components integrated seamlessly with web APIs.
+* ⚡ **Next.js App Router & Turbopack**: delivering high performance server and client rendering with ultra fast static builds.
+* 🎨 **Glassmorphism Design & Dark Themes**: designing premium dark layouts featuring glowing borders, responsive typography, and micro animations.
+* 📱 **Fully Mobile Responsive**: ensuring dynamic layout adaptivity across mobile, tablet, and desktop viewports.
 
 ---
 
