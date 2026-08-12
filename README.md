@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Logic%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
 
+<!-- Animated Typing Banner Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=Abdul+Azeem+Hashmi;Autonomous+AI+%26+Agentic+Engineer;Full-Stack+Web+Developer;Logic+%26+Database+Architect;Robotics+%26+ROS2+Enthusiast" alt="Animated Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=70&lines=Abdul+Azeem+Hashmi;AI+%26+Backend+Engineer;Full-Stack+Web+Developer;Logic+%26+Database+Architect" alt="Animated Header" />
 </a>
 
-<h1>⚡ Abdul Azeem Hashmi | Personal Portfolio & Profile ⚡</h1>
+<h1>⚡ Abdul Azeem Hashmi | Personal Profile ⚡</h1>
 
 <p align="center">
-  <b>🌌 Sleek, Modern, and Interactive AI & Software Engineering Showcase 🌌</b>
+  <b>🌌 Sleek, Modern, and Interactive Profile Showcase across Autonomous AI, Full-Stack Engineering, and Cloud Architectures 🌌</b>
 </p>
 
 <!-- Live Badges -->
 <p align="center">
   <a href="https://abdulazeemhashmi.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-abdulazeemhashmi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-abdulazeemhashmi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://github.com/AbdulAzeemHashmi">
     <img src="https://img.shields.io/badge/GitHub_Profile-@AbdulAzeemHashmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
@@ -25,7 +26,7 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://komarev.com/ghpvc/?username=AbdulAzeemHashmi&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/></td>
     <td align="center"><img src="https://img.shields.io/github/followers/AbdulAzeemHashmi?label=FOLLOWERS&style=for-the-badge&color=00c8ff&labelColor=1a1a2e" alt="Followers"/></td>
@@ -41,33 +42,45 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation Visual"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Visual Animation"/>
 
 </div>
 
-Welcome to the profile of **Abdul Azeem Hashmi**! I specialize in building Autonomous AI Agents, LLM-Powered Applications, Full-Stack Web Development, and Cloud Data Architectures.
+Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space serves as an interactive showcase of projects, computational expertise, and engineering skills across Autonomous AI Agents, LLM-Powered Applications, Full-Stack Web Development, and Cloud Data Architectures.
 
 ```
        ┌─────────────────────────────────────────────────────────────┐
        │                 🌌 ABDUL AZEEM HASHMI 🌌                   │
        ├─────────────────────────────────────────────────────────────┤
        │  🧠 Autonomous AI & Agents |  ⚡ Full-Stack Web Engineering  │
-       │  🤖 LLM & Prompt Tools     |  💻 Modern Cloud Architectures  │
+       │  🤖 LLM & Prompt Tools     |  💻 Modern Web & API Systems   │
        └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Key Features
 
-- 🌐 **Portfolio Website:** [abdulazeemhashmi.vercel.app](https://abdulazeemhashmi.vercel.app/)
-- 🎓 **Education:** BS AI student at FAST NUCES, Islamabad
-- 💼 **Software Engineering Intern** at CODOC (PVT) LTD
-- 🛸 **AI Intern** at UAV Dependability Research Lab
-- 💬 **Ask me about:** Autonomous AI agents, Gemini API, LangChain, Next.js, Python, C++, SQL database design, and ROS2 robotics
-- 🌱 **Currently exploring:** Advanced multi-agent workstations, LLMs, and autonomous systems
-- ⚡ **Fun fact:** I love bridging the gap between software engineering, artificial intelligence, and hardware
-- 📫 **Reach me at:** [abdulazeem7982@gmail.com](mailto:abdulazeem7982@gmail.com)
+* 🌊 **Interactive WebGL & UI Experiences**: Dynamic, physics-driven particle simulations reacting in real-time to user interactions.
+* 🎵 **Custom Embedded Controllers & APIs**: Sleek, floating media components integrated seamlessly with web APIs.
+* ⚡ **Next.js App Router & Turbopack**: High performance server and client rendering with ultra-fast static builds.
+* 🎨 **Glassmorphism Design & Dark Themes**: Premium dark layouts featuring glowing borders, responsive typography, and micro-animations.
+* 📱 **Fully Mobile Responsive**: Dynamic layout adaptivity across mobile, tablet, and desktop viewports.
+
+---
+
+## 🛠️ Core Tech Stack
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **AI & Agents** | <img src="https://img.shields.io/badge/Gemini_API-8E44AD?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> |
+| **Frameworks & UI** | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> |
+| **Databases & Cloud** | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
+
+</div>
 
 ---
 
@@ -91,49 +104,32 @@ Welcome to the profile of **Abdul Azeem Hashmi**! I specialize in building Auton
 
 ---
 
-## 🛠️ Core Tech Stack
+## 📂 Featured Projects Showcase
 
-<div align="center">
+1. **Autonomous Digital Employee**
+   * An AI-powered full-stack workstation enabling users to delegate complex tasks to an autonomous digital agent with real-time database logging and Google Gemini primary integration.
+   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/autonomous-digital-employee) | [Live Demo](https://autonomous-digital-employee-zeta.vercel.app/)
+   * 🛠️ `Next.js` `FastAPI` `LangChain` `Gemini API` `Supabase`
 
-### 💻 Programming Languages
+2. **Awaaz Pakistan**
+   * An advocacy and petition platform empowering professionals with AI-generated appeals, multi-lingual voice/document inputs, and automated sign-on workflows.
+   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/Awaaz-Pakistan) | [Live Demo](https://awaaz-pakistan.vercel.app/)
+   * 🛠️ `Next.js` `AI` `Tailwind CSS` `TypeScript` `Vercel`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+3. **README AI Enhancer**
+   * An AI-powered documentation platform leveraging Google Gemini to analyze README weaknesses, detect missing technical sections, and generate polished rewrites.
+   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/readme-ai-enhancer) | [Live Demo](https://readme-ai-enhancer.vercel.app/)
+   * 🛠️ `Next.js` `Gemini API` `AI` `Tailwind CSS` `TypeScript`
 
-### 🤖 AI, Agents & Data Science
+4. **AI Resume Analyzer**
+   * An intelligent web application that detects resume weaknesses, automatically enhances formatting and content using OpenAI, and provides download options in PDF/DOCX format.
+   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/AI-Resume-Analyzer) | [Live Demo](https://ai-resume-analyzer-aah18751.vercel.app/)
+   * 🛠️ `TypeScript` `Tailwind CSS` `Python` `Flask` `OpenAI API`
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E44AD?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### 🌐 Frameworks & Web UI
-
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Databases, Cloud & Tools
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
+5. **Agentic UAV Mission Planner**
+   * An end-to-end mission planning simulator that processes natural language requests, generates optimized waypoint routes, and enforces multi-rule airspace compliance.
+   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/agentic-uav-mission-planner)
+   * 🛠️ `Python` `Streamlit` `Google Gemini` `Folium` `SQLite`
 
 ---
 
@@ -170,17 +166,13 @@ Welcome to the profile of **Abdul Azeem Hashmi**! I specialize in building Auton
   <img src="https://img.shields.io/badge/Live_Portfolio-abdulazeemhashmi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 <a href="https://github.com/AbdulAzeemHashmi">
-  <img src="https://img.shields.io/badge/GitHub-@AbdulAzeemHashmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-@AbdulAzeemHashmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 <a href="mailto:abdulazeem7982@gmail.com">
   <img src="https://img.shields.io/badge/Email-abdulazeem7982%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:00c8ff,100:8a2be2&height=140&section=footer" width="100%" alt="Footer Banner"/>
 
