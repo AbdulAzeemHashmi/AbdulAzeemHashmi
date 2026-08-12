@@ -163,15 +163,15 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff&stroke=00c8ff" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity" />
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true)
 
 </div>
 
