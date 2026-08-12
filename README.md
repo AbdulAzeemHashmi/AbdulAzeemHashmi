@@ -163,12 +163,15 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff&stroke=00c8ff" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8a2be2&ring=00c8ff&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff&stroke=00c8ff" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
@@ -177,7 +180,7 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity" />
+
 </div>
 
 ---
