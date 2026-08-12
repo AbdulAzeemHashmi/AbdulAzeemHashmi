@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=200&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Header Banner"/>
 
@@ -8,18 +8,6 @@
 
 <p align="center">
   <b>🌌 Sleek, Modern, and Interactive Profile Showcase across Autonomous AI, Full Stack Engineering, and Cloud Architectures 🌌</b>
-</p>
-
-<p align="center">
-  <a href="https://abdulazeemhashmi.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-abdulazeemhashmi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-  </a>
-  <a href="https://github.com/AbdulAzeemHashmi">
-    <img src="https://img.shields.io/badge/GitHub_Profile-@AbdulAzeemHashmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="mailto:abdulazeem7982@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-abdulazeem7982%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <table align="center">
