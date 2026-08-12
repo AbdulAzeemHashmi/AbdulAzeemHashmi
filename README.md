@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Logic%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=240&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Logic%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
 
-<!-- Animated Typing Banner Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=70&lines=Abdul+Azeem+Hashmi;AI+%26+Backend+Engineer;Full-Stack+Web+Developer;Logic+%26+Database+Architect" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=70&lines=Abdul+Azeem+Hashmi;AI+%26+Backend+Engineer;Full+Stack+Web+Developer;Logic+%26+Database+Architect" alt="Animated Header" />
 </a>
 
 <h1>⚡ Abdul Azeem Hashmi | Personal Profile ⚡</h1>
 
 <p align="center">
-  <b>🌌 Sleek, Modern, and Interactive Profile Showcase across Autonomous AI, Full-Stack Engineering, and Cloud Architectures 🌌</b>
+  <b>🌌 Sleek, Modern, and Interactive Profile Showcase across Autonomous AI, Full Stack Engineering, and Cloud Architectures 🌌</b>
 </p>
 
-<!-- Live Badges -->
 <p align="center">
   <a href="https://abdulazeemhashmi.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-abdulazeemhashmi.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
@@ -38,7 +36,7 @@
 
 ---
 
-## 💫 Overview & Visual Preview
+## 💫 Overview
 
 <div align="center">
 
@@ -46,26 +44,26 @@
 
 </div>
 
-Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space serves as an interactive showcase of projects, computational expertise, and engineering skills across Autonomous AI Agents, LLM-Powered Applications, Full-Stack Web Development, and Cloud Data Architectures.
+Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space serves as an interactive showcase of computational expertise and engineering skills across Autonomous AI Agents, LLM Powered Applications, Full Stack Web Development, and Cloud Data Architectures.
 
 ```
        ┌─────────────────────────────────────────────────────────────┐
        │                 🌌 ABDUL AZEEM HASHMI 🌌                   │
        ├─────────────────────────────────────────────────────────────┤
-       │  🧠 Autonomous AI & Agents |  ⚡ Full-Stack Web Engineering  │
-       │  🤖 LLM & Prompt Tools     |  💻 Modern Web & API Systems   │
+       │  🧠 Autonomous AI & Agents   ⚡ Full Stack Web Engineering  │
+       │  🤖 LLM & Prompt Tools       💻 Modern Web & API Systems   │
        └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Strengths
 
-* 🌊 **Interactive WebGL & UI Experiences**: Dynamic, physics-driven particle simulations reacting in real-time to user interactions.
-* 🎵 **Custom Embedded Controllers & APIs**: Sleek, floating media components integrated seamlessly with web APIs.
-* ⚡ **Next.js App Router & Turbopack**: High performance server and client rendering with ultra-fast static builds.
-* 🎨 **Glassmorphism Design & Dark Themes**: Premium dark layouts featuring glowing borders, responsive typography, and micro-animations.
-* 📱 **Fully Mobile Responsive**: Dynamic layout adaptivity across mobile, tablet, and desktop viewports.
+* 🌊 **Interactive WebGL & UI Experiences** — building dynamic, physics driven particle simulations that react in real time to user interactions.
+* 🎵 **Custom Embedded Controllers & APIs** — crafting sleek, floating media components integrated seamlessly with web APIs.
+* ⚡ **Next.js App Router & Turbopack** — delivering high performance server and client rendering with ultra fast static builds.
+* 🎨 **Glassmorphism Design & Dark Themes** — designing premium dark layouts featuring glowing borders, responsive typography, and micro animations.
+* 📱 **Fully Mobile Responsive** — ensuring dynamic layout adaptivity across mobile, tablet, and desktop viewports.
 
 ---
 
@@ -86,21 +84,27 @@ Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space 
 
 ## 🧠 Services & Expertise
 
-* **🧠 Autonomous AI & Agentic Systems**: Developing autonomous digital agents, multi-tool AI workstations, and natural language mission planners powered by Gemini, OpenAI, and LangChain. Expert in Gemini API, LangChain, and agentic workflows.
-* **⚡ Full-Stack Web & API Engineering**: Building performant, responsive web applications and backend microservices using Next.js, FastAPI, Flask, and Tailwind CSS. Proficient in Next.js, TypeScript, Python, and FastAPI.
-* **⚙️ Database Architecture & Cloud Data**: Designing robust relational and document database schemas with seamless persistence and real-time logging. Comprehensive Supabase, SQLite, MySQL, and MongoDB expertise.
+* **🧠 Autonomous AI & Agentic Systems**: Developing autonomous digital agents, multi tool AI workstations, and natural language mission planners powered by Gemini, OpenAI, and LangChain. Expert in Gemini API, LangChain, and agentic workflows.
+* **⚡ Full Stack Web & API Engineering**: Building performant, responsive web applications and backend microservices using Next.js, FastAPI, Flask, and Tailwind CSS. Proficient in Next.js, TypeScript, Python, and FastAPI.
+* **⚙️ Database Architecture & Cloud Data**: Designing robust relational and document database schemas with seamless persistence and real time logging. Comprehensive Supabase, SQLite, MySQL, and MongoDB expertise.
 
 ---
 
 ## 💼 Industry & Research Internships
 
-1. **Software Engineering Intern** at **CODOC PVT LTD** *(July 2026 - Present)*
-   * Architecting and implementing scalable software solutions, optimizing full-stack application performance, and collaborating on modern software engineering workflows.
-   * 🛠️ `Software Engineering` `Full-Stack Development` `TypeScript` `Next.js` `API Design`
+1. **Software Engineering Intern** at **CODOC (PVT) LTD** *(July 2026, Present)*
+   * Architecting and implementing scalable software solutions, optimizing full stack application performance, and collaborating on modern software engineering workflows.
+   * 🛠️ `Software Engineering` `Full Stack Development` `TypeScript` `Next.js` `API Design`
 
-2. **AI Intern** at **UAV Dependability Research Lab** *(June 2026 - August 2026)*
-   * Researched and engineered AI logic models for autonomous UAV systems, conducting dependability evaluations, waypoint route optimization, and rule compliance testing.
+2. **AI Intern** at **UAV Dependability Research Lab** *(June 2026, Present)*
+   * Researching and engineering AI logic models for autonomous UAV systems, conducting dependability evaluations, waypoint route optimization, and rule compliance testing.
    * 🛠️ `Artificial Intelligence` `Autonomous Systems` `UAV Engineering` `Python` `Model Evaluation`
+
+---
+
+## 🎓 Education
+
+* **BS Artificial Intelligence** at **FAST NUCES, Islamabad Campus** *(2024, Present)*
 
 ---
 
@@ -153,6 +157,6 @@ Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space 
 
 <br/>
 
-<sub>Designed & Built by <b>Abdul Azeem Hashmi</b></sub>
+<sub>Designed and Built by <b>Abdul Azeem Hashmi</b></sub>
 
 </div>
