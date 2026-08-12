@@ -177,14 +177,6 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
