@@ -31,12 +31,12 @@
 Hi, I'm **Abdul Azeem Hashmi** 👋 an AI and Backend Engineer who loves turning complex ideas into clean, working software. I build autonomous AI agents, LLM powered applications, and full stack web experiences that people actually love using.
 
 ```
-╔════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════╗
 ║                  🌌  ABDUL AZEEM HASHMI  🌌                    ║
-╠════════════════════════════════════════════════════════════════╣
+╠═════════════════════════════════════════════════════════════════╣
 ║  🧠 Autonomous AI & Agents      ⚡ Full Stack Web Engineering  ║
 ║  🤖 LLM & Prompt Engineering    💻 Cloud & Database Systems    ║
-╚════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 ---
