@@ -104,35 +104,6 @@ Welcome to the GitHub profile repository for **Abdul Azeem Hashmi**! This space 
 
 ---
 
-## 📂 Featured Projects Showcase
-
-1. **Autonomous Digital Employee**
-   * An AI-powered full-stack workstation enabling users to delegate complex tasks to an autonomous digital agent with real-time database logging and Google Gemini primary integration.
-   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/autonomous-digital-employee) | [Live Demo](https://autonomous-digital-employee-zeta.vercel.app/)
-   * 🛠️ `Next.js` `FastAPI` `LangChain` `Gemini API` `Supabase`
-
-2. **Awaaz Pakistan**
-   * An advocacy and petition platform empowering professionals with AI-generated appeals, multi-lingual voice/document inputs, and automated sign-on workflows.
-   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/Awaaz-Pakistan) | [Live Demo](https://awaaz-pakistan.vercel.app/)
-   * 🛠️ `Next.js` `AI` `Tailwind CSS` `TypeScript` `Vercel`
-
-3. **README AI Enhancer**
-   * An AI-powered documentation platform leveraging Google Gemini to analyze README weaknesses, detect missing technical sections, and generate polished rewrites.
-   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/readme-ai-enhancer) | [Live Demo](https://readme-ai-enhancer.vercel.app/)
-   * 🛠️ `Next.js` `Gemini API` `AI` `Tailwind CSS` `TypeScript`
-
-4. **AI Resume Analyzer**
-   * An intelligent web application that detects resume weaknesses, automatically enhances formatting and content using OpenAI, and provides download options in PDF/DOCX format.
-   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/AI-Resume-Analyzer) | [Live Demo](https://ai-resume-analyzer-aah18751.vercel.app/)
-   * 🛠️ `TypeScript` `Tailwind CSS` `Python` `Flask` `OpenAI API`
-
-5. **Agentic UAV Mission Planner**
-   * An end-to-end mission planning simulator that processes natural language requests, generates optimized waypoint routes, and enforces multi-rule airspace compliance.
-   * 🔗 [GitHub Repository](https://github.com/AbdulAzeemHashmi/agentic-uav-mission-planner)
-   * 🛠️ `Python` `Streamlit` `Google Gemini` `Folium` `SQLite`
-
----
-
 ## 📊 GitHub Analytics & Statistics
 
 <div align="center">
