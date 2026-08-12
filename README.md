@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=200&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=200&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=50&lines=AI+%26+Backend+Engineer;Full+Stack+Web+Developer;Autonomous+Agent+Builder;Cloud+%26+Database+Architect" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=50&lines=AI+%26+Backend+Engineer;Full+Stack+Web+Developer;Autonomous+AI+Systems+Architect" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -28,15 +28,15 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Visual Animation"/>
 </div>
 
-Hi, I'm **Abdul Azeem Hashmi** 👋 an AI and Backend Engineer who loves turning complex ideas into clean, working software. I build autonomous AI agents, LLM powered applications, and full stack web platforms, all wrapped in interfaces that feel fast, modern, and alive.
+Hi, I'm **Abdul Azeem Hashmi** 👋 an AI and Backend Engineer who loves turning complex ideas into clean, working software. I build autonomous AI agents, LLM powered applications, and full stack web experiences that people actually love using.
 
 ```
-╔═════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════╗
 ║                  🌌  ABDUL AZEEM HASHMI  🌌                    ║
-╠═════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║  🧠 Autonomous AI & Agents      ⚡ Full Stack Web Engineering  ║
 ║  🤖 LLM & Prompt Engineering    💻 Cloud & Database Systems    ║
-╚═════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -163,12 +163,12 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8a2be2&ring=00c8ff&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdulAzeemHashmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00c8ff&text_color=ffffff&stroke=00c8ff" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=AbdulAzeemHashmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=8a2be2&ring=00c8ff&fire=ff6b6b&currStreakLabel=00c8ff&sideLabels=ffffff" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff&langs_count=10" alt="Top Languages" width="55%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdulAzeemHashmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
@@ -177,7 +177,7 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity" />
 </div>
 
 ---
@@ -199,7 +199,7 @@ Researching and engineering AI logic models for autonomous UAV systems, running 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+connect+with+me!+%F0%9F%A4%9D;Let%27s+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=8A2BE2&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+connect+with+me!" alt="Thanks for visiting" />
 </a>
 
 <br/><br/>
