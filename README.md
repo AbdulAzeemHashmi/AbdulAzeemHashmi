@@ -130,22 +130,22 @@ Designing robust relational and document database schemas with seamless persiste
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Software Engineering Intern
-**CODOC (PVT) LTD** · *July 2026 → Present*
-
-Architecting and implementing scalable software solutions, optimizing full stack application performance, and collaborating on modern engineering workflows.
-
-`Software Engineering` `Full Stack Development` `TypeScript` `Next.js` `API Design`
-
-</td>
-<td width="50%" valign="top">
-
 ### ✈️ AI Intern
 **UAV Dependability Research Lab** · *June 2026 → August 2026*
 
 Researching and engineering AI logic models for autonomous UAV systems, running dependability evaluations, waypoint route optimization, and rule compliance testing.
 
 `Artificial Intelligence` `Autonomous Systems` `UAV Engineering` `Python` `Model Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Software Engineering Intern
+**CODOC (PVT) LTD** · *July 2026 → August 2026*
+
+Architecting and implementing scalable software solutions, optimizing full stack application performance, and collaborating on modern engineering workflows.
+
+`Software Engineering` `Full Stack Development` `TypeScript` `Next.js` `API Design`
 
 </td>
 </tr>
