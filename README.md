@@ -55,6 +55,7 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
       <p>AI powered UAV mission planning system that converts natural language commands into validated flight plans with safety checks and export options.</p>
       <p><b>Tech Stack:</b> Python, AI Agents, Gemini API, LangChain</p>
       <p>
+        <a href="https://agentic-uav-mission-planner-hdqzzyfj2nwqz3v4ss5wg5.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
         <a href="https://github.com/AbdulAzeemHashmi/agentic-uav-mission-planner"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </p>
     </td>
