@@ -30,7 +30,7 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>Pak University Advisor</h3>
       <p>Bilingual web application helping Pakistani students find the best university based on budget, location, and degree requirements.</p>
       <p><b>Tech Stack:</b> TypeScript, Next.js, React, Tailwind CSS</p>
@@ -39,7 +39,9 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
         <a href="https://github.com/AbdulAzeemHashmi/pak-university-advisor"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>HEC ODL Application Orchestrator</h3>
       <p>Automated Open and Distance Learning application processing system for HEC with RAG, LangChain, and multi AI failover architecture.</p>
       <p><b>Tech Stack:</b> TypeScript, LangChain, RAG, Next.js</p>
@@ -50,22 +52,13 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>Agentic UAV Mission Planner</h3>
       <p>AI powered UAV mission planning system that converts natural language commands into validated flight plans with safety checks and export options.</p>
       <p><b>Tech Stack:</b> Python, Streamlit, AI Agents, Gemini API</p>
       <p>
         <a href="https://agentic-uav-mission-planner-hdqzzyfj2nwqz3v4ss5wg5.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
         <a href="https://github.com/AbdulAzeemHashmi/agentic-uav-mission-planner"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Developer Portfolio</h3>
-      <p>Interactive portfolio showcase featuring projects, skills, and contact details with fluid animations and responsive styling.</p>
-      <p><b>Tech Stack:</b> TypeScript, Next.js, React, Tailwind CSS</p>
-      <p>
-        <a href="https://abdulazeemhashmi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C8FF?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/AbdulAzeemHashmi/Portfolio"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </p>
     </td>
   </tr>
