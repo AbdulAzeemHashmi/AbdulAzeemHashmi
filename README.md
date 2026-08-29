@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00c8ff,100:ff6b6b&height=200&section=header&text=Abdul%20Azeem%20Hashmi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=50&lines=AI+%26+Backend+Engineer;Full+Stack+Web+Developer;Autonomous+AI+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vcenter=true&width=650&height=50&lines=AI+%26+Backend+Engineer;Full+Stack+Developer;Autonomous+AI+Systems+Architect" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -53,7 +53,7 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
     <td width="50%" valign="top">
       <h3>Agentic UAV Mission Planner</h3>
       <p>AI powered UAV mission planning system that converts natural language commands into validated flight plans with safety checks and export options.</p>
-      <p><b>Tech Stack:</b> Python, AI Agents, Gemini API, LangChain</p>
+      <p><b>Tech Stack:</b> Python, Streamlit, AI Agents, Gemini API</p>
       <p>
         <a href="https://agentic-uav-mission-planner-hdqzzyfj2nwqz3v4ss5wg5.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live Demo"/></a>
         <a href="https://github.com/AbdulAzeemHashmi/agentic-uav-mission-planner"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
@@ -129,7 +129,7 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAzeemHashmi&bg_color=0d1117&color=8a2be2&line=00c8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Activity" width="90%" />
+<img src="https://ghchart.rshah.org/39d353/AbdulAzeemHashmi" alt="Contribution Activity" width="90%" />
 
 </div>
 
