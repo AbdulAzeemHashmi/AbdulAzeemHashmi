@@ -129,7 +129,11 @@ Hi, I am **Abdul Azeem Hashmi**, an AI and Backend Engineer studying BS Artifici
 
 <br/>
 
-<img src="https://ghchart.rshah.org/39d353/AbdulAzeemHashmi" alt="Contribution Activity" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AbdulAzeemHashmi/AbdulAzeemHashmi/output/github-contribution-grid-snake.svg" alt="Contribution Activity" width="90%" />
+</picture>
 
 </div>
 
